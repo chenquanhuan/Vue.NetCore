@@ -1,0 +1,15 @@
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\bin\Release\net6.0\VOL.Core.deps.json
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\bin\Release\net6.0\VOL.Core.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\bin\Release\net6.0\VOL.Core.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\bin\Release\net6.0\VOL.Entity.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\bin\Release\net6.0\VOL.Entity.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.csproj.AssemblyReference.cache
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.AssemblyInfoInputs.cache
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.AssemblyInfo.cs
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.csproj.CoreCompileInputs.cache
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.csproj.CopyComplete
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\refint\VOL.Core.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\VOL.Core.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\VOL.Core\obj\Release\net6.0\ref\VOL.Core.dll
