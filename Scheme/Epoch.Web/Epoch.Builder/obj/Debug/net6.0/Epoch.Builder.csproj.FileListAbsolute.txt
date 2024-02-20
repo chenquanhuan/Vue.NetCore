@@ -1,0 +1,17 @@
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Builder.deps.json
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Builder.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Builder.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Core.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Entity.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Core.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\bin\Debug\net6.0\Epoch.Entity.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.csproj.AssemblyReference.cache
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.AssemblyInfoInputs.cache
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.AssemblyInfo.cs
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.csproj.CoreCompileInputs.cache
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.csproj.CopyComplete
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\refint\Epoch.Builder.dll
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\Epoch.Builder.pdb
+D:\个人源码\Epoch\.Net\Vue.NetCore\Scheme\Epoch.Web\Epoch.Builder\obj\Debug\net6.0\ref\Epoch.Builder.dll
