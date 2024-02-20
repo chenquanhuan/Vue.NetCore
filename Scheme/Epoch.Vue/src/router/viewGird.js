@@ -62,6 +62,10 @@ let viewgird = [
     path: '/Sys_Department',
     name: 'Sys_Department',
     component: () => import('@/views/system/system/Sys_Department.vue')
-  }]
+  }    ,{
+        path: '/App_News',
+        name: 'App_News',
+        component: () => import('@/views/appmanager/news/App_News.vue')
+    }]
 
 export default viewgird

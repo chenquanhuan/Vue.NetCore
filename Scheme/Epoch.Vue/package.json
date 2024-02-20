@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "dev": "webpack-dev-server --config webpack.config.js"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
